@@ -36,7 +36,7 @@ Ensure you have the following installed on your machine:
 Start by cloning the repository:
 
 ```bash
-git clone https://github.com/varunmedida/char_project.git
+git clone https://github.com/varunmedida/chart_project.git
 cd interactive-chart-dashboard
 ```
 
